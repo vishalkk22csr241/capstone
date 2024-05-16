@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t react-capstone:latest .
+docker build -t react-nginx .
