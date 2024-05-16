@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t react-nginx .
+docker build -t test .
