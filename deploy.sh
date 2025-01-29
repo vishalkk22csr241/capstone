@@ -6,6 +6,7 @@
     docker login -u ar8888 -p dckr_pat_EADWHoJ3ZHIAazRONGu5WkNt0EY
     docker tag test ar8888/dev
     docker push ar8888/dev
+    
 
 //"elif [[ $GIT_BRANCH == "origin/main" ]]; then
     sh 'chmod +x build.sh'
