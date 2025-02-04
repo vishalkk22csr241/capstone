@@ -1,4 +1,5 @@
 #!/bin/bash
+echo hi
     sh 'chmod +x build.sh'
     sh './build.sh'
     docker login -u ar8888 -p dckr_pat_HU8f1bsQJp3j2DnCttXuuoppo7w
